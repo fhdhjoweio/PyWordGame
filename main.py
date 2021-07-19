@@ -2,7 +2,7 @@ import random
 import PySimpleGUI as sg
 
 sg.theme('GrayGrayGray')
-wordlist = [("jump", "./images/1.png")]
+wordlist = [("jump", "images/1.gif")]
 
 
 while True:
